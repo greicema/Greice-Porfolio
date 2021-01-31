@@ -354,7 +354,7 @@
   }
 
 /*PC*/
-@media only screen and (min-width: 1200px) {  
+@media only screen and (min-width: 1000px) {  
   h1 {
     font-family: "Playfair Display", serif;
     font-weight: normal;
@@ -445,7 +445,7 @@
 
   .coluna-menor{
     margin-top: 48px;
-    width: 188px;
+    width: 250px;
   }
   
   .linha{
@@ -466,12 +466,13 @@
     width: 40px;
     height: 40px;
     border-radius: 4px;
-    margin-right: 8px;
+    margin-right: 12px;
   }
   
   .coluna-menor li{
     margin-top: 32px;
     display: flex;
+    width: 225px;
   }
   
   .conteudo{
@@ -524,7 +525,7 @@ ul, ol{
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
-  width: 318px; /*mesmo tamanho da parte de trás*/
+  width: 318px; 
   height: 348px;
   border-radius: 6%;
 }
@@ -546,13 +547,7 @@ ul, ol{
     margin: 12px;
     width: 288px;
   }
-  
-  /*.habilidade h3{
-    font-size: 60px;
-    font-weight: bold;
-    margin-bottom: 16px;
-  }*/
-  
+
   .habilidade p{
     font-size: 16px;
   }
@@ -614,7 +609,7 @@ ul, ol{
     padding: 12px;
     background-color: white;
     border-radius: 8px;
-    margin: 18px;
+    margin: 14px;
   }
   
   .capa {
@@ -676,7 +671,7 @@ ul, ol{
   width: 400px;
   padding: 8px;
   border-radius: 8px;
-  margin: 18px;
+  margin: 14px;
   display: inline-block;
 }
   

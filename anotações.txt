@@ -1,7 +1,8 @@
 Para atualizar
-- Revisar imagens
 - Revisar traduções de novo?
 - Revisar responsividade
-- Criar aba de formação complementar
-- Acrescentar manual da Azunha nos trabalhos realizados
-- Colocar matérias da Apub nos códigos de inglês e espanhol
+- Acrescentar manual da Azunha nos trabalhos realizados (criar nova categoria: outros)
+- Alterar cor da linha da coluna menor
+- Aplicar alterações da formação complementar (HTML) para inglês e espanhol
+- Arrumar um jeito de destacar a instituições na coluna menor (pesquisar ícone)
+- Talvez alterar valores de width para telas menores em: .coluna-menor li; .coluna-menor; projeto; sonora
