@@ -278,6 +278,11 @@
       margin-right: 12px;
       margin-bottom: 18px;
     }
+
+    .projeto img{
+      width:200px;
+      height:112px
+    }
     
     .capa {
       display: block;
@@ -610,6 +615,11 @@ ul, ol{
     background-color: white;
     border-radius: 8px;
     margin: 14px;
+  }
+
+  .projeto img{
+    width:400px;
+    height:224px;
   }
   
   .capa {
